@@ -1,0 +1,15 @@
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\bin\Debug\net6.0\MyOwnNerdle.exe
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\bin\Debug\net6.0\MyOwnNerdle.deps.json
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\bin\Debug\net6.0\MyOwnNerdle.runtimeconfig.json
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\bin\Debug\net6.0\MyOwnNerdle.dll
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\bin\Debug\net6.0\MyOwnNerdle.pdb
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.csproj.AssemblyReference.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.AssemblyInfoInputs.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.AssemblyInfo.cs
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.dll
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\refint\MyOwnNerdle.dll
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.pdb
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\MyOwnNerdle.genruntimeconfig.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\MyOwnNerdle\obj\Debug\net6.0\ref\MyOwnNerdle.dll
